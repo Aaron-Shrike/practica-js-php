@@ -1,5 +1,5 @@
 # Práctica de JS y PHP
-Práctica de JS y PHP **12/04/2021**
+Práctica de JS y PHP, con 5 preguntas. **12/04/2021**
 
 ## Pregunta 01
 
